@@ -1,0 +1,17 @@
+*.jar
+*.class
+
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+local.properties
+.ckasspath
+.settings/
+.loadpath
+.launch
+
