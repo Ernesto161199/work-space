@@ -7,7 +7,7 @@ public class test2d {
 	miforma.setWidth(12.5);
 	miforma.setHeight(1.3);
 	miforma.showDim();
-	triangulo t1=new triangulo("doble continuo",2.4,2.1);
+	triangulo t1=new triangulo("doble continuo", 2.4);
 	t1.setWidth(2.4);
 	t1.setHeight(2.1);
 	t1.setEstilo(" doble continuo");
